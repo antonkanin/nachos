@@ -1,3 +1,4 @@
 nachos/proj1/nachos
 .idea
 *.swp
+build
